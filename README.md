@@ -1,31 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm Francisco Ortiz</h1>
 
-I am a Mechatronics Engineer, graduated from the University of Pamplona, Colombia, where I specialized in topics such as neural networks and computer vision. Additionally, I hold an ADSI Technologist degree from SENA. Professionally, I have experience as a backend developer, creating applications in monolithic architectures and API Rest, integrating with third parties (such as PayU, AWS-Route53, and DIAN). I also have experience in deploying and configuring Nginx servers with tools like Forge and Digital Ocean, knowledge in Docker containers, GitHub Actions, and testing. This has been mainly worked on with frameworks such as FastAPI, Laravel, and Express.
+<p align="center">
+  🚀 Mechatronics Engineer | 🖥️ Backend Developer | 🤖 AI Enthusiast | 🎨 Tattoo Artist
+</p>
 
-Although I enjoy backend development, my current focus is on using AI frameworks and/or libraries (such as TensorFlow, OpenCV, among others), which I implement alongside my backend knowledge to improve performance, accuracy, and add functionalities and/or features to the applications I develop, building scalable apps that allow the seamless integration and deployment of machine learning models.
+---
 
-I value teamwork and effective communication, and I am always willing to solve problems creatively and efficiently. I am motivated by continuous learning and overcoming technical challenges.
+## 👨‍💻 About Me
 
-Connect with me to discuss ideas, projects, or collaboration opportunities!
+- 🎓 **Mechatronics Engineer** from **University of Pamplona, Colombia**  
+- 🏅 **ADSI Technologist** from **SENA**  
+- 💻 **Backend Developer** with experience in **monolithic architectures & REST APIs**  
+- ⚙️ Skilled in **FastAPI, Laravel, Express.js, Docker, GitHub Actions, Nginx**  
+- ☁️ Worked with **AWS Route 53, Digital Ocean, PayU, DIAN integrations**  
+- 🔬 Passionate about **Computer Vision & AI (TensorFlow, OpenCV, etc.)**  
+- 🚀 Building scalable applications integrating **ML models & AI solutions**  
 
-### ⚙️ &nbsp;GitHub Analytics
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🔹 DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🔹 AI & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+## ⚙️ GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=knarfortiz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knarfortiz&layout=compact&langs_count=6&theme=buefy"/>
 </p>
 
-<!--
-**knarfortiz/knarfortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
