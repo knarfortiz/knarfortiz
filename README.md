@@ -11,10 +11,8 @@ Connect with me to discuss ideas, projects, or collaboration opportunities!
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/knarfortiz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=knarfortiz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knarfortiz&layout=compact&langs_count=6&theme=buefy"/>
-</a>
 </p>
 
 <!--
