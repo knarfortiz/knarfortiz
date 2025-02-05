@@ -10,9 +10,9 @@
 
 - 🎓 **Mechatronics Engineer** from **University of Pamplona, Colombia**  
 - 🏅 **ADSI Technologist** from **SENA**  
-- 💻 **Backend Developer** with experience in **monolithic architectures & REST APIs**  
+- 💻 **Backend Developer** with experience in **monolithic architectures, REST APIs & Microservices**  
 - ⚙️ Skilled in **FastAPI, Laravel, Express.js, Docker, GitHub Actions, Nginx**  
-- ☁️ Worked with **AWS Route 53, Digital Ocean, PayU, DIAN integrations**  
+- ☁️ Worked with **AWS Route 53, Digital Ocean, PayU, Forge, Electronic billing**  
 - 🔬 Passionate about **Computer Vision & AI (TensorFlow, OpenCV, etc.)**  
 - 🚀 Building scalable applications integrating **ML models & AI solutions**  
 
