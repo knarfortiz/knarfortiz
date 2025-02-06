@@ -42,9 +42,8 @@
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=knarfortiz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true\&rank_icon=github&hide_border=true" style="border: 1px solid #dbdbdb; border-radius: 10px;" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=knarfortiz&theme=buefy&hide_border=true" style="border: 1px solid #dbdbdb; border-radius: 10px;" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knarfortiz&layout=compact&langs_count=6&theme=buefy&hide_border=true" style="border: 1px solid #dbdbdb; border-radius: 10px;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=knarfortiz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knarfortiz&layout=compact&langs_count=6&theme=buefy" />
 </p>
 
 ---
