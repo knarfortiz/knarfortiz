@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Francisco Ortiz</h1>
 
 <p align="center">
-  🚀 Mechatronics Engineer | 🖥️ Backend Developer | 🤖 AI Enthusiast | 🎨 Tattoo Artist
+  🧠 Software Architecture | 💻 Backend Developer | 🪶 .NET & C# | 🌐 Blazor | 📲 .NET MAUI | 🐍 FastAPI | ⚡ Laravel | 🤖 AI & Computer Vision Enthusiast
 </p>
 
 ---
@@ -9,22 +9,26 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Mechatronics Engineer** from **University of Pamplona, Colombia**  
-- 🏅 **ADSI Technologist** from **SENA**  
-- 💻 **Backend Developer** with experience in **monolithic architectures, REST APIs & Microservices**  
-- ⚙️ Skilled in **FastAPI, Laravel, Express.js, Docker, GitHub Actions, Nginx**  
-- ☁️ Worked with **AWS Route 53, Digital Ocean, PayU, Forge, Electronic billing**  
-- 🔬 Passionate about **Computer Vision & AI (TensorFlow, OpenCV, etc.)**  
-- 🚀 Building scalable applications integrating **ML models & AI solutions**  
+- 🏅 **Software Development Technologist (ADSI)** from **SENA**  
+- 💻 **Backend Developer** focused on designing and building **scalable, maintainable, and efficient applications**  
+- ⚙️ Experienced with **.NET & C#**, working with **Blazor** and **.NET MAUI** to create modern web and cross-platform solutions  
+- 🐍 Previous experience with **FastAPI, Laravel, and Express.js**, applying clean architecture and best development practices  
+- ☁️ Skilled in **Docker, GitHub Actions, NGINX, AWS Route 53, Digital Ocean, PayU**, and **Electronic Billing Systems**  
+- 🧩 Interested in **Software Architecture** and continuous improvement of backend systems  
+- 🤖 Passionate about **Artificial Intelligence and Computer Vision** as complementary tools for automation and optimization   
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🔹 Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🔹 DevOps & Cloud
